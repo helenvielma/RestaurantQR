@@ -1,5 +1,5 @@
 /**
- * 30/06/2013 .- Camilo
+ * 30/06/2013 .- Helen
  * La funcionalidad trata de que desde el archivo html; se llama a esta función
  * la cual toma una capa del html sobre la cual deseamos que aparescan los datos (en este caso, la capa donde iría la tabla) 
  * y le dice al php que escriba sobre esa capa, el php escribe desde el servidor y se lo devuelve
