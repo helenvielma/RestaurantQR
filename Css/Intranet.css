@@ -1,0 +1,190 @@
+/** Mi cuenta **/
+#iniCliente {
+	margin-left: 30px;
+	width: 800px;
+	height: 300px;
+}
+
+#iniCliente a {
+	text-decoration: none;
+	padding-left: 30px;
+	color: black;
+}
+
+/** Capas del mi Cuenta **/
+#miCuenta_titulo {
+	height: 50px;
+	width: 100%;
+}
+#miCuenta_tabla {
+	height: 300px;
+	width: 100%;
+}
+/*************************/
+
+/** Ver perfil **/
+#perfil_header {
+	width: 100%;
+	height: 35px;
+	margin-left: -50px;
+}
+
+/** Capas del header perfil **/
+#perfilHeader_titulo { 
+	float: left;
+	width: 15%;
+	height: 100%;
+}
+#perfilHeader_boton { 
+	float: right;
+	width: 85%;
+	height: 100%;	
+}
+
+/** Adminstrar locales **/
+#wrapper_local {
+	width: 800px;
+	height: 420px;
+	margin-left: 60px;
+}
+
+#header_local {
+	height: 45px;
+	width: 100%;
+}
+
+/** Capas header local **/
+#headerLocal_boton {
+	height: 100%;
+	width: 15%;
+	float: left;
+}
+#headerLocal_titulo{
+	height: 100%;
+	width: 85%;
+	float: right;
+}
+/************************/
+
+#botonLocal { 
+	width: 100%;
+	height: 30px;
+}
+
+#btn_ingresoLocal {
+	margin-left: 85%;
+}
+
+#datosLocales { 
+	width: 100%;
+	height: 345px;
+}
+
+#tabla_locales {
+	width: 760px;
+	margin-top: 0;
+}
+
+/**TABLA VER LOCALES **/
+.td_local_nombre    { width: 200px;  } 
+.td_local_direccion { width: 440px; }
+.td_local_modificar { width: 60px;  }
+.td_local_ver       { width: 60px;  }
+.td_local_eliminar  { width: 60px;  }
+.titulo_tabla 		{ color: red;   }
+/************************/
+
+/** Ver - Registrar - editar Local **/
+#wrapper_inLocales {
+	width: 800px;
+	margin-left: 60px;
+}
+
+#inLocal_titulo {
+	width: 100%;
+	height: 35px;
+}
+
+/** Capas del titulo **/
+#inLocalTitulo_titulo {
+	height: 100%;
+	float: left;
+}
+
+#inLocalTitulo_boton {
+	height: 100%;
+	width: 85%;
+	float: right;
+}
+/**********************/
+
+#inLocal_header {
+	height: 120px;
+	width: 100%;
+}
+
+/** Capas del header **/
+#inlocalHeader_foto {
+	height: 100%;
+	width: 300px;
+	float: left;	
+}
+#inlocalHeader_datos {
+	height: 100%;
+	width: 500px;
+}
+/*********************/
+
+#inLocal_direcciones {
+	width: 100%;
+	height: 220px;
+}
+
+
+/** Capas formas de pago **/
+#inLocal_formasPago {
+	width: 100%;
+	height: 180px;
+	overflow-y: auto;
+}
+
+#buscar_run {
+	width: 100%;
+	height: 430px;
+	overflow-y: auto;
+}
+
+
+#inLocal_menu {
+	width: 100%;
+	height: 250px;
+	border: red solid 1px;
+}
+
+#form_buscar_run {
+	margin-left: 20%;
+	margin-top:  2%;	
+}
+
+#Menu1 {
+	margin-top:30px;
+	width:400px;
+	height:200px;
+	margin-left:20%;
+}
+
+
+.span_pago {
+	border: gray solid 1px;
+	padding: 5px 5px 5px 5px;
+}
+
+/** Formularios **/
+.input_300px { width: 300px; }
+
+.negrita {
+	font-weight: bold;
+}
+
+
+

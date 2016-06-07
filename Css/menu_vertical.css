@@ -1,0 +1,36 @@
+/** Menu */
+ul#sliding-navigation {
+	list-style: none;
+	padding-left: 10px;
+}
+
+ul#sliding-navigation li.sliding-element h3, ul#sliding-navigation li.sliding-element a {
+	display: block;
+	width: 95px;
+	padding: 4px 15px;
+	margin: 0;
+	margin-bottom: 2px;
+}
+
+ul#sliding-navigation li.sliding-element h3 {
+	color: #E0FADB;
+	background: #2A5E8C;
+	border: 1px solid #1a1a1a;
+	font-weight: normal;
+	font-size: 18px;
+	font-family: arial;
+}
+
+ul#sliding-navigation li.sliding-element a {
+	color: #E0FADB;
+	background: #5F8AA3;
+	border: 1px solid #1a1a1a;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: arial;
+}
+
+ul#sliding-navigation li.sliding-element a:hover {
+	color: #E0FADB;
+}
+
